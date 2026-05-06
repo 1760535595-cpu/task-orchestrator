@@ -80,7 +80,7 @@ PLAN=$(npx task-orchestrator split "复杂任务描述")
 
 If this tool saved you hours of manual work, consider buying me a coffee:
 
-<a href="https://afdian.com/a/1760535595">
+<a href="https://ifdian.net/a/xiaopin44">
   <img src="https://img.shields.io/badge/爱发电-赞助-blue?style=for-the-badge&logo=github" width="200" />
 </a>
 
