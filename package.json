@@ -1,0 +1,32 @@
+{
+  "name": "@xiaopin44/task-orchestrator",
+  "version": "1.0.0",
+  "description": "Multi-agent task orchestrator. Split complex tasks into sub-tasks, analyze dependencies, and merge results from parallel workers. CLI + API.",
+  "keywords": [
+    "orchestrator",
+    "multi-agent",
+    "task-split",
+    "ai-agents",
+    "workflow",
+    "parallel",
+    "automation"
+  ],
+  "license": "MIT",
+  "author": "Xiaopin44",
+  "type": "module",
+  "main": "orchestrator.js",
+  "bin": {
+    "task-orchestrator": "./orchestrator.js",
+    "task-split": "./orchestrator.js"
+  },
+  "files": ["orchestrator.js", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node orchestrator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaopin44/task-orchestrator.git"
+  },
+  "publishConfig": { "access": "public" }
+}
