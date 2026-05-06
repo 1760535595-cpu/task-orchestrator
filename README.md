@@ -76,6 +76,14 @@ PLAN=$(npx task-orchestrator split "复杂任务描述")
 # npx task-orchestrator summary "$result1" "$result2"
 ```
 
+## Sponsor ☕
+
+If this tool saved you hours of manual work, consider buying me a coffee:
+
+<a href="https://afdian.com/a/1760535595">
+  <img src="https://img.shields.io/badge/爱发电-赞助-blue?style=for-the-badge&logo=github" width="200" />
+</a>
+
 ## License
 
 MIT
